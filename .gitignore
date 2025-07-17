@@ -1,0 +1,3 @@
+*.csv
+01_MLFlow/mlruns
+01_MLFlow/mlartifacts
